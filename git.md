@@ -1,5 +1,7 @@
 ### git 命令测试
 
+[常用命令](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
+
 #### 新建代码库
 
 ```shell
